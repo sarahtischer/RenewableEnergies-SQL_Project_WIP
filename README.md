@@ -1,4 +1,4 @@
-# WIP > Analysis of Renewable Energy Adoption and its Impact on CO2 Emissions in Europe and Globally < WIP
+# WOEK IN PROGRESS -- Analysis of Renewable Energy Adoption and its Impact on CO2 Emissions in Europe and Globally 
 
 ## Objective
 The primary objective of this project is to analyze the adoption rates of renewable energy sources and their impact on CO2 emissions. The analysis will utilize the owid_energy and owid_co2 datasets to draw insights into renewable energy consumption trends, the effectiveness of renewable energy policies, and their correlation with carbon emissions reduction. The goal is to identify trends, correlations, and potential areas for policy intervention to further promote renewable energy use.
